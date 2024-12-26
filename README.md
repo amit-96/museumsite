@@ -15,3 +15,6 @@ git clone https://github.com/amit-96/museum-webpage.git
 
 Navigate to the folder:
 cd museumsite
+
+CONTACT:
+If you have any questions, feel free to reach out to me via GitHub or email at amit8651217616@gmail.com.
