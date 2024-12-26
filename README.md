@@ -14,4 +14,4 @@ Clone this repository:
 git clone https://github.com/amit-96/museum-webpage.git
 
 Navigate to the folder:
-cd museum-webpage
+cd museumsite
