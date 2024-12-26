@@ -1,20 +1,23 @@
-MUSEUM WEB PAGE
+<h1 align="center">Hi 👋, I'm Amit kumar</h1>
+<h3 align="center">working on web development</h3>
 
-This project is a simple HTML-based museum webpage that can be used as part of a personal project, museum exhibition, or educational tool. The webpage is designed with basic HTML and CSS to showcase the exhibits and information related to the museum.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-96&label=Profile%20views&color=0e75b6&style=flat" alt="amit-96" /> </p>
 
-TOOLS USED:)
-HTML: The structure of the webpage.
-CSS: For styling and layout.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-96" alt="amit-96" /></a> </p>
 
+- 📫 How to reach me **amit8651217616@gmail.com**
 
-INSTALLATION:
-To view and edit this project locally, follow the steps below:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/amit-kumar-279586286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/amit-kumar-279586286" height="30" width="40" /></a>
+</p>
 
-Clone this repository:
-git clone https://github.com/amit-96/museum-webpage.git
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-Navigate to the folder:
-cd museumsite
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-96&show_icons=true&locale=en&layout=compact" alt="amit-96" /></p>
 
-CONTACT:
-If you have any questions, feel free to reach out to me via GitHub or email at amit8651217616@gmail.com.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-96&show_icons=true&locale=en" alt="amit-96" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-96&" alt="amit-96" /></p>
+
