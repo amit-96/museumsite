@@ -1,0 +1,144 @@
+.main {
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+.main h1 {
+    font-size: 3em;
+    color: #333;
+    text-decoration: underline;
+}
+
+.banner {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.main p {
+    font-size: 1.2em;
+    color: #666;
+}
+.gallery {
+    padding: 50px 10%;
+    text-align: center;
+}
+
+.gallery h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.gallerygrid {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+}
+
+.galleryitem {
+    position:relative;
+    overflow: hidden;
+}
+
+.galleryitem img {
+    width: 100%;
+    height: auto;
+    transition: transform 3 ease;
+    cursor: pointer;
+    
+}
+
+.galleryitem:hover img {
+    transform: scale(1.1);
+    box-shadow: 5px 8px 10px black;
+}
+
+.information {
+    color:black;
+    font-size:large;
+    
+
+}
+
+.galleryitem:hover .info {
+  visibility:inherit;
+}
+
+.timeline {
+    padding: 50px 10%;
+}
+
+.timelinecont {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.timelineitem {
+    position: relative;
+    padding: 20px;
+    border-left: 3px solid #1e1818;
+    border-right: 3px solid #100d0d;
+}
+
+.timelineitem .date {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+}
+
+
+.map {
+    padding: 50px 10%;
+    text-align: center;
+}
+
+.mapcontainer img {
+    width: 100%;
+    height: 800px;
+}
+
+.quiz {
+    padding: 50px 10%;
+    background-color: #f9f9f9;
+}
+
+.quiz label {
+    font-size: 1.2em;
+    color: #8e0a0a;
+}
+
+.quiz input[type="submit"] {
+    height: 40px;
+    width: 100px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #050305;
+    color: white;
+    border: none;
+    cursor:pointer;
+}
+
+
+body.darkmode {
+    background-color: #333;
+    color: white;
+}
+
+#darkModeToggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 15px;
+    background-color: #d1c6c6;
+    color: rgb(23, 22, 22);
+    cursor: pointer;
+    transition: 2s;
+    
+}
+#darkModeTogglehover{
+    background-color: #0d0c0c;
+    border-radius: 5px 5px 10px black;
+}
